@@ -3,7 +3,6 @@
     "name": "Bath In Stone",
     "slug": "bath-in-stone",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
